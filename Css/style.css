@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.calborder {
+    Margin: auto;
+    background: #22a6b3;
+    width:300px;
+    border-radius:10px;
+
+
+}
+
+.display input{
+    width: 94%;
+    margin: 7px;
+    height: 50px;
+    text-align: right;
+    font-size: 25px;
+    font-family: Times New Roman;
+
+
+
+}
+
+ul {
+    padding-left: 8px;
+    list-style-type: none;
+    overflow: auto;
+}
+
+li {
+    float: left;
+}
+
+.calbtn {
+    margin-top: 5px;
+}
+
+.calbtn button{
+    width:71px;
+    background-color: #f9ca24;
+    height:55px;
+    font-size:30px;
+    color:cornsilk
+}
